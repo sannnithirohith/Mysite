@@ -85,6 +85,12 @@ a:hover {
 
 }
 
+.informatica-img {
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+
 .middle-container {
     margin: 100px 0;
 }
